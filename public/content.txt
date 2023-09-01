@@ -1,0 +1,23 @@
+Demo:
+https://seal-street-photo-studio.superhi.com/
+
+Figma link:
+https://www.figma.com/file/4IK4vu8Z1xMGzFIHigvCbD/Seal-Street-Photo-Studio?node-id=0%3A1
+
+Colors:
+White: #ffffff
+Black: #000000
+Gradient 1: 120deg from #97ebd6 to #9aa6f9
+Gradient 2: 30deg from #dc72ef to #fe0000
+
+Typography:
+Messapia (Bold)
+http://collletttivo.it/
+
+Photography:
+Aiony Haust
+https://unsplash.com/@aiony
+
+Content:
+Seal Street Photo Studio
+@sealstreetphoto on Instagram
